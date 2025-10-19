@@ -3,7 +3,70 @@
         "id": "GuidedGenerations-Extension",
         "type": "extension",
         "name": "Guided Generations",
-        "description": "Tell your AI what to do! Adds modular tools for guiding AI responses, managing persistent context, and refining interactions.",
+        "description": "This extension brings the full power of the original 'Guided Generations' Quick Reply set to SillyTavern as a native extension. It provides modular, context-aware tools for shaping, refining, and guiding AI responses—ideal for roleplay, story, and character-driven chats. All features are accessible via intuitive buttons and menus integrated into the SillyTavern UI.",
         "url": "https://github.com/Samueras/GuidedGenerations-Extension"
+    },
+    {
+        "id": "SillyTavern-MoonlitEchoesTheme",
+        "type": "extension",
+        "name": "Moonlit Echoes Theme",
+        "description": "Moonlit Echoes is a UI theme designed for SillyTavern. It has been customized and refined based on my personal preferences to create a more modern, elegant, and minimalist interface while enhancing the user experience across both desktop and mobile platforms.",
+        "url": "https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme"
+    },
+    {
+        "id": "NemoPresetExt",
+        "type": "extension",
+        "name": "Nemo Preset Extension",
+        "description": "NemoPresetExt helps organize your SillyTavern prompts. It makes long lists of prompts easier to manage by grouping them into collapsible sections and adding a search bar.",
+        "url": "https://github.com/NemoVonNirgend/NemoPresetExt"
+    },
+    {
+        "id": "SillyTavern-WeatherPack",
+        "type": "extension",
+        "name": "Weather Pack",
+        "description": "A SillyTavern extension that automatically fixes and normalizes markdown formatting in chat messages.",
+        "url": "https://github.com/bmen25124/SillyTavern-WeatherPack"
+    },
+    {
+        "id": "NemoLore",
+        "type": "extension",
+        "name": "Nemo Lore",
+        "description": "NemoLore is a comprehensive SillyTavern extension that enhances roleplay through intelligent memory management, narrative consistency, and automated lore expansion. It provides advanced noun detection, interactive highlighting, AI-powered summarization, core memory tracking, and semantic search capabilities.",
+        "url": "https://github.com/NemoVonNirgend/NemoLore"
+    },
+    {
+        "id": "SillyTavern-AlternateDescriptions",
+        "type": "extension",
+        "name": "Alternate Descriptions",
+        "description": "A SillyTavern extension that allows you to save and manage multiple versions of character fields within a single character card. Perfect for experimenting with different character concepts without losing your original work.",
+        "url": "https://github.com/nbrown725/SillyTavern-AlternateDescriptions"
+    },
+    {
+        "id": "SillyTavern-MemoryBooks",
+        "type": "extension",
+        "name": "Memory Books",
+        "description": "A next-generation SillyTavern extension for automatic, structured, and reliable memory creation. Mark scenes in chat, generate JSON-based summaries with AI, and store them as 'vectorized' entries in your lorebooks. Supports group chats, advanced profile management, and bulletproof API/model handling.",
+        "url": "https://github.com/aikohanasaki/SillyTavern-MemoryBooks"
+    },
+    {
+        "id": "ST-Outfits",
+        "type": "extension",
+        "name": "Outfit Tracker",
+        "description": "This extension lets you keep track of what you and your AI character is wearing (or not wearing).",
+        "url": "https://github.com/lannashelton/ST-Outfits"
+    },
+    {
+        "id": "SillyTavern-WorldInfoInfo",
+        "type": "extension",
+        "name": "WorldInfo Info",
+        "description": "See which WorldInfo entries were active in the last generated message.",
+        "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoInfo"
+    },
+    {
+        "id": "SillyTavern-WorldInfo-Recommender",
+        "type": "extension",
+        "name": "WorldInfo Recommender",
+        "description": "A SillyTavern extension that helps you manage world info based on the current context with LLMs using connection profiles.",
+        "url": "https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender"
     }
 ]
